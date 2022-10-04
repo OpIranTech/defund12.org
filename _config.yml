@@ -28,8 +28,8 @@ defaults:
 siteTitle: DefundIR.org
 permalink: pretty
 subtitle: Email government officials to demand that they stand with the 
-  people of Iran against the regime of the Islamic Republic.. Demand that they recognizing the Islamic 
-  Republic as an illegitimate government and the Islamic Revolutionary Guards Corps as a terrorist organization.
+  people of Iran against the regime of the Islamic Republic, by recognizing 
+  it as an illegitimate government. Vow to reserve your vote for those who do.
 meta: Email government officials to demand that they stand with the 
   people of Iran against the regime of the Islamic Republic. Cut all diplomatic ties and stand with the people of Iran
   in fighting for their freedom.
@@ -41,7 +41,7 @@ defaultSubjectLine: "[*** INSERT UNIQUE SUBJECT LINE ***]"
 autoOpenMessage: This page automatically opens a drafted email for you.
 badMailtoMessage: Email link not working correctly? You can copy and paste the recipients,
   subject and message individually below.
-url: https://defund12.org
+url: https://defundIR.org
 logoUrl: "/images/logoir.png"
 faviconUrl: "/favicon.jpg"
 metaPreviewUrl: https://defund12-image-api.now.sh/api/preview/
