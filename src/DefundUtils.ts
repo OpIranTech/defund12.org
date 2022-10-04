@@ -35,7 +35,7 @@ export class DefundUtils {
     const element = document.createElement("textarea");
     let copyValue = copyText;
     if (isPermalink) {
-      copyValue = "https://defund12.org".concat(copyText);
+      copyValue = "https://defundir.org".concat(copyText);
     }
     element.value = copyValue;
     document.body.appendChild(element);

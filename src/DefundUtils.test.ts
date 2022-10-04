@@ -3,8 +3,8 @@ import { DefundUtils } from "./DefundUtils";
 describe("Defund 12 Static Utilities", () => {
   describe("markdownToHTML", () => {
     it("Should transform markdown elements to HTML elements.", () => {
-      const link = DefundUtils.markdownToHTML("[Defund 12.org](defund12.org)");
-      expect(link).toEqual('<p><a href="defund12.org">Defund 12.org</a></p>');
+      const link = DefundUtils.markdownToHTML("[Defund 12.org](defundir.org)");
+      expect(link).toEqual('<p><a href="defundir.org">Defund 12.org</a></p>');
     });
 
     it("Should prevent <script> tags.", () => {

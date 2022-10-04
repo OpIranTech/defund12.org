@@ -5,7 +5,7 @@ require("ts-node").register();
 
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://defund12.org",
+    siteUrl: "https://defundir.org",
   },
   plugins: [
     "gatsby-plugin-react-helmet",

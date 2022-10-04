@@ -16,6 +16,10 @@ export interface SharedTemplateMetadata {
    */
   city: string;
   /**
+   * The country the email belongs to.
+   */
+  country: string;
+  /**
    * The state that the email's city is in.
    */
   state: string;

@@ -45,10 +45,24 @@ class _TemplateList extends React.Component<
     super(props);
     const templates = this.props.stateGroupedTemplates;
 
+    const optionGroups: any = {};
+    templates.forEach((template) => {
+      const country = template.templates[0].country
+        ? template.templates[0].country
+        : "United States";
+      if (!optionGroups[country]) {
+        optionGroups[country] = [];
+      }
+      optionGroups[country].push({
+        label: template.name,
+        value: template.id,
+      });
+    });
+
     // generate the state selection options
-    this.stateOptions = templates.map((stateGroup) => ({
-      label: stateGroup.name,
-      value: stateGroup.id,
+    this.stateOptions = Object.entries(optionGroups).map(([k, v]) => ({
+      label: k,
+      options: v,
     }));
 
     // add a default option that will show all email links when selected
@@ -201,6 +215,7 @@ export default function TemplateList({
                 city
                 state
                 layout
+                country
               }
             }
           }
