@@ -20,7 +20,7 @@ class _Header extends React.Component<HeaderProps> {
           <h1 aria-label="Defund Twelve .org">{this.props.siteTitle}</h1>
         </Link>
         <p className="divider">{this.props.subtitle}</p>
-        <p aria-label="12 = Police">"12" = 🚓</p>
+        <p aria-label="12 = Police">IR ≠ 🇮🇷</p>
       </header>
     );
   }

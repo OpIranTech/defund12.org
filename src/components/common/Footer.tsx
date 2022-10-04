@@ -1,5 +1,5 @@
 import React from "react";
-import { StaticQuery, graphql, Link } from "gatsby";
+import { StaticQuery, graphql } from "gatsby";
 import { DefundUtils } from "../../DefundUtils";
 import { FooterProps } from "../../types/PropTypes";
 
@@ -23,9 +23,6 @@ class _Footer extends React.Component<FooterProps> {
    * @return {React.ReactNode} the rendered component
    */
   render() {
-    const url = typeof window !== "undefined" ? window.location.href : "";
-    const isLetterPage = url.includes("/letters");
-
     return (
       <>
         <aside className="sticky">
@@ -39,18 +36,6 @@ class _Footer extends React.Component<FooterProps> {
                 }}
               ></span>
             </span>
-            {isLetterPage ? (
-              <span className="email-link">
-                <span className="emojicon">📧</span>
-                <Link to="/">Send an email</Link>
-              </span>
-            ) : (
-              <span className="snail-mail-link">
-                <span className="emojicon">📬</span>
-                <Link to="/letters">Send a letter</Link>
-                <span className="beta-bubble">BETA</span>
-              </span>
-            )}
           </div>
         </aside>
         <footer className="footerMain">

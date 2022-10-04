@@ -45,7 +45,7 @@ export class TemplateListItem extends React.Component<
     return (
       <li data-state={this.props.state}>
         <Link to={`${this.props.permalink}?browse`}>
-          {this.props.city} - <i>{this.props.name}</i>
+          <i>{this.props.name}</i>
         </Link>
         <span
           tab-index="0"
