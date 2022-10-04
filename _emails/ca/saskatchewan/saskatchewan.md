@@ -31,7 +31,7 @@ body: |
 
   Iran is a country that has been held hostage by terrorists for over four decades. This regime is the number one state sponsor of terrorism in the Middle East. They have shot down passenger planes as a political maneuver. They regularly use torture and sadism as a means to maintain their grip on power. It is an outrage that all members of the regime apparatus are not recognized as terrorists, that deals continue to be made with them via backchannels, and that the support for the brave people of Iran has stopped at mere statements.
 
-  I am standing with Iranian expatriates in Canada and around the world and with the the millions of Iranians who are bravely facing this regime on their streets.  I demand that yourself and Saskatchewan meaningfully do the same by:
+  I am standing with Iranian expatriates in Canada and around the world and with the the millions of Iranians who are bravely facing this regime on their streets.  I demand that yourself our PROVINCIAL/FEDERAL government meaningfully do the same by:
 
     - Formally recognizing the Islamic Republic as an illegitimate government and the Islamic Revolutionary Guards Corps as a terrorist organization, 
     - Seizing the assets of Islamic Republic and all its agents and releasing them only to a legitimate government of Iran,
