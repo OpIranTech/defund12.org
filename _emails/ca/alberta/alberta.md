@@ -5,6 +5,11 @@ name: Demand Letter to the premier
 city: Province
 state: Alberta
 country: Canada
+cc:
+- none
+date: "dummy content"
+redirect_from:
+- "/Alberta"
 recipients:
 - premier@gov.ab.ca
 - ziad.aboultaif@parl.gc.ca
