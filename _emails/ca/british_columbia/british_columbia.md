@@ -53,7 +53,7 @@ recipients:
 - justin.trudeau@parl.gc.ca
 
 body: |
-   My name is [YOUR NAME], and I am a resident of British Columbia.
+  My name is [YOUR NAME], and I am a resident of British Columbia.
 
   I am writing to demand that you stand with the people of Iran against the regime of the Islamic Republic. In the past, Western governments have paid lip service to solidarity with the people of Iran, but in the next breath, they have allowed regime officials to immigrate to western countries with millions of dollars of stolen money to live lives of luxury; they have, directly or indirectly through intermediaries, made deals with the Islamic Republic that have led to its sustenance.
 
