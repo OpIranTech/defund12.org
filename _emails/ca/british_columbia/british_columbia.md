@@ -20,11 +20,12 @@ recipients:
 - Laurel.Collins@parl.gc.ca
 - Marc.Dalton@parl.gc.ca
 - don.davies@parl.gc.ca
-- sukh.dhaliwal@parl.gc.ca;randall.garrison@parl.gc.ca
--  todd.doherty@parl.gc.ca
+- sukh.dhaliwal@parl.gc.ca
+- randall.garrison@parl.gc.ca
+- todd.doherty@parl.gc.ca
 - ed.fast@parl.gc.ca
 - gord.johns@parl.gc.ca
--  kerry-lynne.findlay@parl.gc.ca
+- kerry-lynne.findlay@parl.gc.ca
 - hedy.fry@parl.gc.ca
 - Tracy.Gray@parl.gc.ca
 - ken.hardie@parl.gc.ca
