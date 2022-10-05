@@ -6,7 +6,7 @@ city: Province
 state: Ontario
 country: Canada
 recipients:
-- remier@ontario.ca
+- premier@ontario.ca
 - Scott.Aitchison@parl.gc.ca
 - omar.alghabra@parl.gc.ca
 - shafqat.ali@parl.gc.ca
