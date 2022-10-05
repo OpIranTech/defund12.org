@@ -66,7 +66,7 @@ class _TemplateList extends React.Component<
     }));
 
     // add a default option that will show all email links when selected
-    this.stateOptions.unshift({ label: "Choose state", value: 0 });
+    this.stateOptions.unshift({ label: "Choose Province", value: 0 });
 
     this.state = {
       selectedState: this.stateOptions[0],
