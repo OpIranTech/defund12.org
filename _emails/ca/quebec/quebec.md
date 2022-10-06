@@ -87,24 +87,23 @@ recipients:
 - justin.trudeau@parl.gc.ca
 
 body: |
-  Je m'appelle {VOTRE NOM}, je réside dans Quebec.
+  Je m'appelle {VOTRE NOM}, et je réside à dans {VOTRE DISTRICT}.
 
-  Je vous écris pour exiger que vous vous teniez aux côtés du peuple iranien contre le régime de la République islamique. Dans le passé, les gouvernements occidentaux ont fait semblant d'être solidaires avec le peuple iranien, mais en un instant, ils ont permis aux responsables du régime d'immigrer dans les pays occidentaux avec des millions de dollars d'argent volé pour vivre une vie de luxe ; ils ont, directement ou indirectement par le biais d'intermédiaires, conclu des accords avec la République islamique qui ont conduit à sa subsistance.
+  Je vous écris pour exiger que vous vous teniez aux côtés du peuple iranien contre le régime de la République islamique. Dans le passé, les gouvernements occidentaux ont fait semblant d'être solidaires avec le peuple iranien, mais l’instant d’après, ils ont permis aux responsables du régime d'immigrer dans les pays occidentaux avec des millions de dollars d'argent volé pour vivre une vie de luxe ; ils ont, directement ou indirectement par le biais d'intermédiaires, conclu des accords avec la République islamique qui ont conduit à son maintien.
 
-  L'Iran est un pays pris en otage par des terroristes depuis plus de quatre décennies. Ce régime est le premier État parrain du terrorisme au Moyen-Orient. Ils ont abattu des avions de passagers dans le cadre d'une manœuvre politique. Ils utilisent régulièrement la torture et le sadisme comme moyen de maintenir leur emprise sur le pouvoir. C'est un scandale que tous les membres de l'appareil du régime ne soient pas reconnus comme terroristes, que des accords continuent d'être conclus avec eux via des canaux détournés et que le soutien au brave peuple iranien se soit arrêté à de simples déclarations.
+  L'Iran est un pays pris en otage par des terroristes depuis plus de quatre décennies. Ce régime est le premier État parrain du terrorisme au Moyen-Orient. Ils ont abattu des avions de passagers dans le cadre d'une manœuvre politique. Ils utilisent régulièrement la torture et le sadisme pour maintenir leur emprise sur le pouvoir. C'est un scandale que tous les membres du régime ne soient pas reconnus comme terroristes, que des accords continuent d'être conclus avec eux via des canaux détournés et que le soutien au brave peuple iranien se soit arrêté à de simples déclarations.
 
-  Je suis aux côtés des expatriés iraniens dans {VOTRE PAYS} et dans le monde et avec les millions d'Iraniens qui affrontent courageusement ce régime dans leurs rues. J'exige que vous-même et Quebec fassiez de même en :
+  Je me tiens aux côtés des expatriés iraniens dans {VOTRE PAYS} et dans le monde et avec les millions d'Iraniens qui affrontent courageusement ce régime dans leurs rues. J'exige que vous-même et notre gouvernement {PROVINCIAL/FEDERAL} fassiez de même de manière significative en:
 
-  Reconnaître officiellement la République islamique comme un gouvernement illégitime et le Corps des gardiens de la révolution islamique comme une organisation terroriste,
-  Saisir les avoirs de la République islamique et de tous ses agents et les remettre uniquement à un gouvernement légitime d'Iran,
+  Reconnaissant officiellement la République islamique comme un gouvernement illégitime et le Corps des gardiens de la révolution islamique comme une organisation terroriste,
+  Saissant les avoirs de la République islamique et de tous ses agents et en les remettant uniquement à un gouvernement légitime d'Iran,
   Déclarant formellement la rupture de tout engagement avec le régime illégitime.
 
-  Aujourd'hui, je fais le vœu de réserver tous mes votes futurs aux responsables publics et aux partis qui se tiennent aux côtés du brave peuple iranien, indépendamment de toute autre considération.
+  Aujourd'hui, je m’engage à réserver tous mes votes futurs aux responsables publics et aux partis qui se tiennent aux côtés du brave peuple iranien, indépendamment de toute autre considération.
 
   Merci pour votre temps,
   {VOTRE NOM} {ADRESSE}
   {NUMÉRO DE TÉLÉPHONE} {EMAIL}
-
 
 layout: email
 ---
